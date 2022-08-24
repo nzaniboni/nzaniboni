@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nzaniboni](https://github.com/nzaniboni)
 
-- 💬 Ask me about **estatística, teste A/B, amostragem, modelos estatísticos**
+- 💬 Pergunte-me sobre **estatística, teste A/B, amostragem, modelos estatísticos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
